@@ -1,5 +1,5 @@
 class Elipse {
-  constructor(xpoint, ypoint, radius, borderColor, color, lineWidth) {
+  constructor(xpoint, ypoint, radius, color, borderColor, lineWidth) {
     this.xpoint = xpoint;
     this.ypoint = ypoint;
     this.radius = radius;
